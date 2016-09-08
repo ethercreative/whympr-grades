@@ -499,13 +499,53 @@
         "en": [
             {
                 "rating": "NULL",
-                "description": "- The rating represents the maximum rock free climb difficulty.\n- It is given based on the french scale, wich goes from 2 to 9b."
+                "description": "The Objective Danger scale evaluates the risk of natural snow avalanches, serac avalanches, natural rockfall, natural stalactite fall and fragility of the waterfall ice. The danger coming from human behavior is not in this Objective Danger scale except for the falling down of the waterfall ice triggered by the climber. Approach, tehcnical section and return are evaluate in the risk scale."
+            },
+            {
+                "rating": "X1",
+                "description": "Low risk"
+            },
+            {
+                "rating": "X2",
+                "description": "Moderate risk"
+            },
+            {
+                "rating": "X3",
+                "description": "High risk"
+            },
+            {
+                "rating": "X4",
+                "description": "Very high risk"
+            },
+            {
+                "rating": "X5",
+                "description": "Extremely high risk"
             }
         ],
         "fr": [
             {
                 "rating": "NULL",
-                "description": "- La cotation libre évalue la difficulté maximale de l'escalade libre rocheuse.\n- Elles se donnent sur l'échelle française traditionnellement utilisée, qui va de 2 à 9b."
+                "description": "Les risques pris en compte sont les avalanches naturelles de neige, les chutes de sérac, les chutes naturelles de pierre, les chutes naturelles de stalactite et la fragilité du support. Les risques liés directement à l'action humaine ne sont pris en compte hormis l’effondrement de la structure provenant de la fragilité du support déclenché par le pratiquant lui même. Les avalanches, chutes de pierre et de stalactites déclenchés par le pratiquant ou une autre cordée ne sont pas pris en compte. La partie technique, l'approche et le retour sont pris en compte dans l'échelle des risques objectifs."
+            },
+            {
+                "rating": "X1",
+                "description": "Risques objectifs faibles."
+            },
+            {
+                "rating": "X2",
+                "description": "Risques objectifs modérés."
+            },
+            {
+                "rating": "X3",
+                "description": "Risques objectifs marqués."
+            },
+            {
+                "rating": "X4",
+                "description": "Risques objectifs sévères."
+            },
+            {
+                "rating": "X5",
+                "description": "Risques objectifs très sévères. La même chose que X4 en pire."
             }
         ]
     },
