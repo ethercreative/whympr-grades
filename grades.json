@@ -30,7 +30,7 @@
                 "description": "Extremely difficult: Extremely hard routes with vertical ice slopes likely and rock climbing at UIAA Grades VI to VIII. Aid pitches are a possibility with exceptional objective danger."
             },
             {
-                "rating": "ED4\<",
+                "rating": "ED4",
                 "description": "Climbs harder than ED+ and other abominalities: Self-explanatory!"
             }
         ],
@@ -41,7 +41,7 @@
             },
             {
                 "rating": "F",
-                "description": "Dans une course facile, l’alpiniste marche avec aisance. L’itinéraire est évident, par exemple la remontée d’un glacier peu pentu et peu crevassé suivie d’un éboulis ou d’une courte arête de blocs facile (difficultés en rocher \< 3). En général, l’usage de la corde ne s’impose que pour la sécurité sur glacier."
+                "description": "Dans une course facile, l’alpiniste marche avec aisance. L’itinéraire est évident, par exemple la remontée d’un glacier peu pentu et peu crevassé suivie d’un éboulis ou d’une courte arête de blocs facile (difficultés en rocher  3). En général, l’usage de la corde ne s’impose que pour la sécurité sur glacier."
             },
             {
                 "rating": "PD",
@@ -64,7 +64,7 @@
                 "description": "Les courses extrêmement difficiles (ED) sont des itinéraires de grande difficulté, généralement assez engagés, avec de l’escalade soutenue dans le 6 (ou de longues sections d’escalade artificielle délicate) ou de longs passages de glace raide ou verticale."
             },
             {
-                "rating": "ED4\<",
+                "rating": "ED4",
                 "description": "Course plus dure que ED+, parfois défini comme \"abominable\"..."
             }
         ]
@@ -183,11 +183,11 @@
             },
             {
                 "rating": "M7",
-                "description": "Overhanging: Difficult dry-tooling but on a short section (\<10m)."
+                "description": "Overhanging: Difficult dry-tooling but on a short section (10m)."
             },
             {
                 "rating": "M8",
-                "description": "M7\< Usually, mixed climbing over M6-M7 is not encountered in the mountain and is thus specific to dry-tooling."
+                "description": "M7 Usually, mixed climbing over M6-M7 is not encountered in the mountain and is thus specific to dry-tooling."
             }
         ],
         "fr": [
@@ -217,7 +217,7 @@
             },
             {
                 "rating": "M8",
-                "description": "M7\< Généralement, le mixte au delà de M6/M7 n'est pas rencontré en montagne et il est donc spécifique au dry-tooling."
+                "description": "M7 Généralement, le mixte au delà de M6/M7 n'est pas rencontré en montagne et il est donc spécifique au dry-tooling."
             }
         ]
     },
@@ -471,7 +471,7 @@
             },
             {
                 "rating": "P1",
-                "description": "Bien équipé\n- Prendre uniquement des dégaines et une sangle, + éventuellement des sangles pour passer en A0+.\n- Tous les relais et tous les points des longueurs sont en place, et sont soit de bonne qualité (goujons \> 10mm, scellement), soit impossibles à renforcer (la différence avec un P1 béton se fait alors par la cotation exposition).\n- Aucun point ne peut être ajouté (même si l'exposition est E4), ou c'est inutile (l'exposition est déjà E2 ou E1)."
+                "description": "Bien équipé\n- Prendre uniquement des dégaines et une sangle, + éventuellement des sangles pour passer en A0+.\n- Tous les relais et tous les points des longueurs sont en place, et sont soit de bonne qualité (goujons 10mm, scellement), soit impossibles à renforcer (la différence avec un P1 béton se fait alors par la cotation exposition).\n- Aucun point ne peut être ajouté (même si l'exposition est E4), ou c'est inutile (l'exposition est déjà E2 ou E1)."
             },
             {
                 "rating": "P1+",
