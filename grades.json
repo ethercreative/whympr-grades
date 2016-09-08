@@ -437,13 +437,61 @@
         "en": [
             {
                 "rating": "NULL",
-                "description": "- The rating represents the maximum rock free climb difficulty.\n- It is given based on the french scale, wich goes from 2 to 9b."
+                "description": "This fields details the presence and quality of fixed anchors (bolts, pitons, spits) as protection points for rock or ice climbing."
+            },
+            {
+                "rating": "P1",
+                "description": "well bolted\n- Sport climbing bolted with 10 or 12mm expansion bolts, chemical bolts, etc. The route may not be quiped for abseil.\n- Required gear: 12 to 14 clippers, some of them lengthy, 1 to 2 slings to complete equipment in grade II pitches."
+            },
+            {
+                "rating": "P1+",
+                "description": "NULL"
+            },
+            {
+                "rating": "P2",
+                "description": "partially bolted\n- Classic route with abundant equipment of good quality, essentially pegs and a few expansion bolts. Nevertheless, it may be necessary to complete or strengthen the equipment in place.\n- Classic or modern bolted route with expansion bolts or pegs only in the difficult unprotectable sections and at belays.\n- Sport route on 8mm expansion bolts or other aging equipment.\n- Required gear: It depends on the route. For a grade D or higher route, at least 8 nuts, 5 cams, 4 slings, long draws."
+            },
+            {
+                "rating": "P2+",
+                "description": "NULL"
+            },
+            {
+                "rating": "P3/+",
+                "description": "some bolts\n- Less classic route with little equipment (most protection must be placed and most belays must be built) and/or of very bad quality.\n- Required gear: It depends on the route. For a grade D or higher route, at least a complete set of nuts and friends from Cams ranging from Camalot #0.3 to Camalot #3 - #4, 2 hammers, 6 pegs of various shapes."
+            },
+            {
+                "rating": "P4/+",
+                "description": "not bolted\n- Route with no bolts or a few spurious points.\n- Required gear: It depends on the route. For a grade D or higher route, at least that of the \"some bolts\" category.\nRoute with no bolts or a few spurious points.\nRequired gear: It depends on the route. For a grade D or higher route, at least that of the \"some bolts\" category."
             }
         ],
         "fr": [
             {
                 "rating": "NULL",
-                "description": "- La cotation libre évalue la difficulté maximale de l'escalade libre rocheuse.\n- Elles se donnent sur l'échelle française traditionnellement utilisée, qui va de 2 à 9b."
+                "description": "La cotation équipement se définit avec la quantité de matériel à emporter et le savoir-faire nécessaire pour l'utiliser. Généralement, un relai est plus difficile à réaliser et nécessite plus de matériel que l'ajout d'un point."
+            },
+            {
+                "rating": "P1",
+                "description": "Bien équipé\n- Prendre uniquement des dégaines et une sangle, + éventuellement des sangles pour passer en A0+.\n- Tous les relais et tous les points des longueurs sont en place, et sont soit de bonne qualité (goujons > 10mm, scellement), soit impossibles à renforcer (la différence avec un P1 béton se fait alors par la cotation exposition).\n- Aucun point ne peut être ajouté (même si l'exposition est E4), ou c'est inutile (l'exposition est déjà E2 ou E1)."
+            },
+            {
+                "rating": "P1+",
+                "description": "- Prendre de quoi protéger un pas ou une courte section dans une ou quelques longueurs, si on souhaite limiter l'exposition.\n- Quelques pas ou sections courtes de la voie sont mal protégées (équipement en place éloigné ou de mauvaise qualité) et il est possible de compléter l'équipement pour réduire l'exposition à E2 autant que possible."
+            },
+            {
+                "rating": "P2",
+                "description": "Partiellement équipé\n- Prendre de quoi compléter l'équipement dans les longueurs et renforcer certains relais.\n- Presque tous les relais sont équipés, et sont de bonne qualité. Ou tout ou partie des relais sont à construire, mais ils sont évidents (béquets ou arbres solides).\n- Des points sont en place dans les longueurs, dont certains de bonne qualité, et les crux de la plupart des longueurs sont équipés.\n- L'équipement est à compléter à plusieurs reprises pour réduire l'exposition à E2 autant que possible."
+            },
+            {
+                "rating": "P2+",
+                "description": "- Prendre de quoi protéger certaines longueurs en totalité ou presque, et de quoi construire quelques relais.\n- Peu de points (de bonne ou mauvaise qualité) sont en place dans les longueurs, et les crux des longueurs ne sont pas forcément équipés."
+            },
+            {
+                "rating": "P3/+",
+                "description": "Peu équipé\n- Prendre de quoi protéger la plupart des longueurs en totalité (P3+) ou presque (P3), et de quoi construire de nombreux relais.\n- Certains relais sont équipés et sont de qualité (P3), mais de nombreux relais sont à construire, et peuvent ne pas être évidents.\n- Très peu de points sont en place dans les longueurs."
+            },
+            {
+                "rating": "P4/+",
+                "description": "Pas équipé\n- Prendre de quoi protéger la totalité des longueurs et la totalité des relais.\n- De rares points de mauvaise qualité sont en place dans la voie (P4), ou aucun équipement n'est en place (P4+)."
             }
         ]
     },
