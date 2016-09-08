@@ -93,7 +93,7 @@
         "fr": [
             {
                 "rating": "NULL",
-                "description": "- La cotation libre obligatoire évalue la difficulté maximale obligatoire de l'escalade libre rocheuse. Elle correspond à la cotation de la partie des difficultés qui reste une fois que l'on a épuisé toutes les possibilités de "triche" en utilisant un point d'aide.\n- Elles se donnent sur l'échelle française traditionnellement utilisée, qui va de 2 à 9b."
+                "description": "- La cotation libre obligatoire évalue la difficulté maximale obligatoire de l'escalade libre rocheuse. Elle correspond à la cotation de la partie des difficultés qui reste une fois que l'on a épuisé toutes les possibilités de \"triche\" en utilisant un point d'aide.\n- Elles se donnent sur l'échelle française traditionnellement utilisée, qui va de 2 à 9b."
             }
         ]
     },
@@ -327,13 +327,109 @@
         "en": [
             {
                 "rating": "NULL",
-                "description": "- The rating represents the maximum rock free climb difficulty.\n- It is given based on the french scale, wich goes from 2 to 9b."
+                "description": "The aid rating corresponds to the maximum difficulty encountered for the rock aid climbing, that is climbing consisting in using aid points for moving on a given sequence.\nThe scale goes from A0 to A6."
+            },
+            {
+                "rating": "A0",
+                "description": "Occasional aid moves often done without aiders (etriers) or climbed on fixed gear; sometimes called \"French free.\""
+            },
+            {
+                "rating": "A0+",
+                "description": "A0 with aiders for the feat."
+            },
+            {
+                "rating": "A1",
+                "description": "Easy aid. No risk of a piece pulling out."
+            },
+            {
+                "rating": "A2",
+                "description": "Moderate aid. Solid gear that’s more difficult to place."
+            },
+            {
+                "rating": "A2+",
+                "description": "A2 with 10-meter fall potential from tenuous placements, but without danger."
+            },
+            {
+                "rating": "A3",
+                "description": "Hard aid. Many tenuous placements in a row; 15-meter fall potential; could require several hours for a single pitch."
+            },
+            {
+                "rating": "A3+",
+                "description": "A3 with dangerous fall potential."
+            },
+            {
+                "rating": "A4",
+                "description": "Serious aid. 30-meter ledge-fall potential from continuously tenuous gear."
+            },
+            {
+                "rating": "A4+",
+                "description": "Even more serious, with even greater fall potential, where each pitch could take many hours to lead."
+            },
+            {
+                "rating": "A5",
+                "description": "Extreme aid. Nothing on the entire pitch can be trusted to hold a fall."
+            },
+            {
+                "rating": "A5+",
+                "description": "A5 with potential fall up to 100m!"
+            },
+            {
+                "rating": "A6",
+                "description": "A5 climbing with belay anchors that won’t hold a fall either."
             }
         ],
         "fr": [
             {
                 "rating": "NULL",
-                "description": "- La cotation libre évalue la difficulté maximale de l'escalade libre rocheuse.\n- Elles se donnent sur l'échelle française traditionnellement utilisée, qui va de 2 à 9b."
+                "description": "La cotation artif correspond à la difficulté maximale de l'escalade artificielle rocheuse, c'est à dire l'escalade consistant à utiliser des points d'aide pour progresser sur un passage donné. L'échelle va de A0 à A6."
+            },
+            {
+                "rating": "A0",
+                "description": "Tous les points sont en place et résistent chacun à la chute du premier de cordée. Le passage se gravit en \"tirant au clou\"."
+            },
+            {
+                "rating": "A0+",
+                "description": "Idem que A0 mais en utilisant une pédale (sangle ou étrier) pour les pieds afin d'atteindre le point suivant."
+            },
+            {
+                "rating": "A1",
+                "description": "Le grimpeur équipe lui-même le passage. La quasi-totalité des points résiste à la chute du premier de cordée. Des passages, d'au plus 2 points successifs peuvent se faire sur des points plus délicats, mais non réalisés sur des points de progression (crochet, plomb, ...). Le matériel exigé est donc composé de pitons variés, de coins de bois, de coinceurs ou de friends."
+            },
+            {
+                "rating": "A2",
+                "description": "Le grimpeur équipe entièrement sa longueur. Des points intermédiaires peuvent sécuriser la voie. La plupart des points résistent à la chute du premier de cordée. Certains passages sont plus techniques : couplage, court passage sur crochet, ... Les sections délicates correspondent à 5 à 10 points successifs. Dans ce dernier cas la longueur est cotée A2+. La chute potentielle oscille entre 10 et 20mètres."
+            },
+            {
+                "rating": "A2+",
+                "description": "La chute potentielle oscille entre 10 et 20mètres."
+            },
+            {
+                "rating": "A3",
+                "description": "Les passages techniques s'allongent et sont entrecoupés de points \"bétons\" (spit ou excellents pitons). Il n'est pas rare d'enchaîner les couplages et les pas sur crochet (bon crochet), voire de placer rurp, bird beak ou autres copper et plombs. La chute potentielle est alors plus importante (autour de 20 à 25mètres). C'est à ce niveau que le grimpeur commence à tester quasi systématiquement ses points avant de mettre son poids dessus."
+            },
+            {
+                "rating": "A3+",
+                "description": "C'est la même chose que dans l'A3, mais avec des sections plus soutenues ou un pas plus aléatoire. La chute peut atteindre les 30mètres."
+            },
+            {
+                "rating": "A4",
+                "description": "De longues sections techniques attendent le grimpeur. Les points de progression (à opposer aux points d'assurage) s'enchaînent pour atteindre 10mètres (10 à 20 mouvements successifs). Des points solides entrecoupent ces sections délicates. Le matériel s'étoffe et laisse place aux plombs, copper, micro-pitons, coins de bois, cales de bois, crochets de toutes sortes, ... Une longueur peut alors demander de nombreuses heures : 4 à 6 heures. La chute potentielle peut atteindre les 50mètres. Mieux vaut être en pleine forme physique et morale !"
+            },
+            {
+                "rating": "A4+",
+                "description": "Comme pour l'A4, avec des sections plus soutenues, plus longues, des pas aléatoires successifs, une lecture plus délicate encore ... On trouve au plus, dans la longueur, un ou deux bons points. Une cotation réservée à l'élite."
+            },
+            {
+                "rating": "A5",
+                "description": "On touche à l’extrême. Les points sont tous des points de progression. La chute est interdite pour qui ne veut pas tenter le diable. Le grimpeur passera une journée entière à grimper sa longueur (notamment en calcaire; en granite, on a pu voir un grimpeur ne passer que 4 / 5h dans la 11ème longueur de Wyoming sheep ranch, au Yosemite, initialement cotée A5+, décotée à A5). "
+            },
+            {
+                "rating": "A5+",
+                "description": "Aucun point, sauf les relais, ne résiste à la chute du premier de cordée. Le vol du siècle, pouvant atteindre, potentiellement, les 100 mètres !"
+            },
+            {
+                "rating": "A6",
+                "description": "Aucun point ne résiste plus au poids du grimpeur, pas même les relais. La cordée n'a alors pas le droit de chuter, sous peine de dévisser !"
             }
         ]
     },
