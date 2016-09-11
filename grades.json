@@ -693,13 +693,53 @@
         "en": [
             {
                 "rating": "NULL",
-                "description": "- The rating represents the maximum rock free climb difficulty.\n- It is given based on the french scale, wich goes from 2 to 9b."
+                "description": "This is not a punctual rating: it depends on the length and configuration of the difficulties rather than the hardest section only.\nIt includes 5 levels. Each level is divided into 3: 4.1 = 4-, 4.2 = 4, 4.3 = 4+. The 5th level is open-ended: 5.4, 5.5, 5.6..."
+            },
+            {
+                "rating": "1.x",
+                "description": "Initiation. Slopes do not exceed 30° with no narrow sections. Vertical descent is less than 800m."
+            },
+            {
+                "rating": "2.x",
+                "description": "Few technical difficulties. Slopes do no exceed 35°. "
+            },
+            {
+                "rating": "3.x",
+                "description": "Some technical sections. Long slopes at 35° with very short sections at 40-45°."
+            },
+            {
+                "rating": "4.x",
+                "description": "Couloir or steep skiing : slopes between 40 and 45° over more than 200m vertical."
+            },
+            {
+                "rating": "5.x",
+                "description": "Starts with slopes of 45°-50° during more than 300m vertical or above 50° for more than 100m vertical."
             }
         ],
         "fr": [
             {
                 "rating": "NULL",
-                "description": "- La cotation libre évalue la difficulté maximale de l'escalade libre rocheuse.\n- Elles se donnent sur l'échelle française traditionnellement utilisée, qui va de 2 à 9b."
+                "description": "Ce n'est pas une cotation ponctuelle : elle dépend de la longueur et de la configuration des difficultés. Elle comprend 5 degrés. Chaque degré est divisé en 3 : 4.1 = 4-, 4.2 = 4, 4.3 = 4+. Le 5ème degré est ouvert sur le haut : 5.4, 5.5, 5.6..."
+            },
+            {
+                "rating": "1.x",
+                "description": "Niveau initiation. Les pentes n’excèdent pas 30°. Les passages ne sont pas trop étroits. Le dénivelé est inférieur à 800m."
+            },
+            {
+                "rating": "2.x",
+                "description": "Peu de difficultés techniques. Les pentes n’excèdent pas 35°."
+            },
+            {
+                "rating": "3.x",
+                "description": "Présence de passages techniques. Pentes longues à 35°, quelques passages très courts jusqu’à 40-45°."
+            },
+            {
+                "rating": "4.x",
+                "description": "Ski de couloir ou pente raide. Pentes à 40 ou 45° sur plus de 200m."
+            },
+            {
+                "rating": "5.x",
+                "description": "Pente à 45°/50° sur plus de 300m ou de plus de 50° sur 100m."
             }
         ]
     },
