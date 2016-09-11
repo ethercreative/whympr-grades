@@ -553,13 +553,69 @@
         "en": [
             {
                 "rating": "NULL",
-                "description": "- The rating represents the maximum rock free climb difficulty.\n- It is given based on the french scale, wich goes from 2 to 9b."
+                "description": "The Labande descent grade is complementary to the global grade. It evaluates the most difficult passage for the ski downhill. It is mostly tied to the slope but also takes exposure into account."
+            },
+            {
+                "rating": "S1",
+                "description": "Easy descent which does not require any particular technical abilities such as forest tracks for example."
+            },
+            {
+                "rating": "S2",
+                "description": "Wide slopes which are easy to manoeuvre, maybe fairly steep (25°)."
+            },
+            {
+                "rating": "S3",
+                "description": "Slopes up to 35° (equivalent to the steepest runs in ski resorts, on hard snow). Requires good skiing abilities in all snow conditions."
+            },
+            {
+                "rating": "S4",
+                "description": "Slopes up to 45°, if exposure is low (between 30 and 40° if it is high or the passage is narrow). Very good skiing abilities are required."
+            },
+            {
+                "rating": "S5",
+                "description": "Slopes between 45 and 50° or more if exposure remains low. From 40° upwards if exposure is high. As well as a perfect downhill skiing technique, control of nerves becomes very important at this level of difficulty."
+            },
+            {
+                "rating": "S6",
+                "description": "Above 50° if exposure is high (which is often the case) or short stretches above 55° with little exposure."
+            },
+            {
+                "rating": "S7",
+                "description": "Stretches at 60° or more, high rock bands to jump or more generally very steep or exposed terrain."
             }
         ],
         "fr": [
             {
                 "rating": "NULL",
-                "description": "- La cotation libre évalue la difficulté maximale de l'escalade libre rocheuse.\n- Elles se donnent sur l'échelle française traditionnellement utilisée, qui va de 2 à 9b."
+                "description": "La cotation Labande ponctuelle ski est complémentaire à la cotation globale. Elle évalue la difficulté du passage le plus délicat de la descente à ski. Elle est essentiellement liée à la pente, mais prend aussi en compte l'exposition."
+            },
+            {
+                "rating": "S1",
+                "description": "Itinéraire facile ne nécessitant pas de technique particulière pour évoluer en sécurité : alpage < 25°, route forestière."
+            },
+            {
+                "rating": "S2",
+                "description": "Pentes assez vastes, même un peu raides (25°), ou itinéraires vallonnés."
+            },
+            {
+                "rating": "S3",
+                "description": "Inclinaison des pentes jusqu'à 35° (pistes noires les plus raides des stations, en neige dure). L'évolution en toutes sortes de neige doit se pratiquer sans difficultés techniques."
+            },
+            {
+                "rating": "S4",
+                "description": "Inclinaison des pentes jusqu'à 45° si l'exposition n'est pas trop forte, à partir de 30° et jusqu'à 40° si l'exposition est forte ou le passage étroit. Une très bonne technique à ski devient indispensable."
+            },
+            {
+                "rating": "S5",
+                "description": "Inclinaison de 45 à 50° voire plus si l'exposition est faible. A partir de 40° si l'exposition est forte. En plus d'une technique parfaite, la maîtrise nerveuse devient importante."
+            },
+            {
+                "rating": "S6",
+                "description": "Au delà de 50° si l'exposition est forte, ce qui est le plus souvent le cas. Sinon à partir de 55° pour de courts passages peu exposés."
+            },
+            {
+                "rating": "S7",
+                "description": "Passages à 60° ou plus, ou saut de barres en terrain très raide ou exposé."
             }
         ]
     },
