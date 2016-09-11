@@ -793,13 +793,61 @@
         "en": [
             {
                 "rating": "NULL",
-                "description": "- The rating represents the maximum rock free climb difficulty.\n- It is given based on the french scale, wich goes from 2 to 9b."
+                "description": "Rating of difficulties for a hiking route. The scale is inspired from that of the Swiss Alpine Club."
+            },
+            {
+                "rating": "T1",
+                "description": "Hiking - Footpath is well marked. Terrain is even and flat, or slightly sloped. There is no risk of falling.\nRequirements: None, you could also follow the itinerary in running shoes. Orientation is not a problem, usually even without a map."
+            },
+            {
+                "rating": "T2",
+                "description": "Mountain hiking - Parts of the path can lack markings. Terrain sometimes steep. Falls are not to be excluded.\nRequirements: Good footing. Hiking boots are recommended. Basic orientation know-how."
+            },
+            {
+                "rating": "T3",
+                "description": "Demanding mountain hiking - Path is sometimes invisible. Hands might be needed for balance. Some stretches might be exposed to stone fall or cross moderately steep scree or rocky slopes where exposed stretches might be equipped with ropes or chains.\nRequirements: very good footing. Good hiking boots. Average orientation capabilities. Basic experience in the mountains is advisable."
+            },
+            {
+                "rating": "T4",
+                "description": "Alpine hiking and scrambling - At times there is no path. Hands might be needed for overcoming certain difficulties. Terrain is somewhat exposed with delicate grassy slopes or slopes mixing rocks, easy nevés or glacier which are not snow covered (no crevasse danger).\nRequirements: Familiarity with exposure. Rigid soled hiking boots. Ability to evaluate terrain and good orientation capabilities. Alpine experience is advisable. In case of bad weather, retreat could be complicated. "
+            },
+            {
+                "rating": "T5",
+                "description": "Demanding alpine hiking and scrambling - There is often no path and some easy climbing. Terrain is exposed and demanding with steep slopes and rocks. Glaciers and nevés increase the risk of slipping and falling.\nRequirements: Mountaineering boots. Confident evaluation of terrain and very good orientation capabilities. A good experience of the high mountains and basic use of ice axe an rope are required."
+            },
+            {
+                "rating": "T6",
+                "description": "T6 grade was deleted. For routes that are graded over T5, you may use activities 'rock-climbing'/'alpine rock climbing' and the associated grades. See also help on the hiking grades."
             }
         ],
         "fr": [
             {
                 "rating": "NULL",
-                "description": "- La cotation libre évalue la difficulté maximale de l'escalade libre rocheuse.\n- Elles se donnent sur l'échelle française traditionnellement utilisée, qui va de 2 à 9b."
+                "description": "Cotation des difficultés d'un itinéraire de randonnée pédestre. L'échelle est inspirée de celle du Club Alpin Suisse."
+            },
+            {
+                "rating": "T1",
+                "description": "Randonnée. Sentier bien tracé. Terrain plat ou en faible pente, pas de risques de chute.\nExigences : Aucune, convient aussi pour baskets. L'orientation ne pose pas de problèmes, en général possible même sans carte."
+            },
+            {
+                "rating": "T2",
+                "description": "Randonnée en montagne. Sentier avec tracé ininterrompu. Terrain parfois raide, risques de chute pas exclus\nExigences : Avoir le pied assez sûr. Chaussures de trekking recommandées. Capacités élémentaires d'orientation."
+            },
+            {
+                "rating": "T3",
+                "description": "Randonnée en montagne exigeante. Sentier pas forcément visible partout. Les passages exposés peuvent être équipés de cordes ou de chaînes. L'utilisation des mains peut être nécessaire pour l'équilibre. Quelques passages exposés avec risques de chute, pierriers, pentes mêlées de rochers sans trace.\nExigences : Avoir le pied très sûr. Bonnes chaussures de trekking. Capacités d'orientation dans la moyenne. Expérience élémentaire de la montagne souhaitable."
+            },
+            {
+                "rating": "T4",
+                "description": "Randonnée alpine. Traces parfois manquantes. L'aide des mains est quelquefois nécessaire pour la progression. Terrain déjà assez exposé, pentes herbeuses délicates, pentes mêlées de rochers, névés faciles et passages sur glacier non recouverts de neige.\nExigences : Etre familier du terrain exposé. Chaussures de trekking rigides. Une certaine capacité d'évaluation du terrain et une bonne capacité d'orientation. Expérience alpine. En cas de mauvais temps le repli peut s'avérer difficile."
+            },
+            {
+                "rating": "T5",
+                "description": "Randonnée alpine exigeante. Souvent sans traces. Quelques passages d'escalade faciles (cotation 2 maximum, ponctuellement jusqu'à 3c si le pas est très court et la chute sans conséquence). Terrain exposé, exigeant, pentes raides mêlées de rochers. Petits Glaciers et névés, non crevassés, pouvant nécessiter l'usage de crampons mais ne nécessitant pas, habituellement, le matériel d'encordement. Le matériel et les techniques d'alpinismes peuvent être employés occasionnellement pour un passage ponctuel mais pas comme un moyen de progression continu.\nExigences : Chaussures de montagne. Évaluation sûre du terrain et très bonnes capacités d'orientation. Bonne expérience de la haute montagne et connaissances élémentaires du maniement du piolet et de la corde."
+            },
+            {
+                "rating": "T6",
+                "description": "La cotation T6 a été supprimée. Pour les itinéraire plus difficiles que T5, utiliser l'activité 'escalade' ou 'rocher haute montagne', ainsi que les cotations associées."
             }
         ]
     },
