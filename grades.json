@@ -854,14 +854,30 @@
     "snowshoeing": {
         "en": [
             {
-                "rating": "NULL",
-                "description": "- The rating represents the maximum rock free climb difficulty.\n- It is given based on the french scale, wich goes from 2 to 9b."
+                "rating": "R1",
+                "description": "Light slope, clear directions"
+            },
+            {
+                "rating": "R2",
+                "description": "Light Slopes, max 20°. No directions"
+            },
+            {
+                "rating": "R3 & 4",
+                "description": "Slope medieum to high steepness"
             }
         ],
         "fr": [
             {
-                "rating": "NULL",
-                "description": "- La cotation libre évalue la difficulté maximale de l'escalade libre rocheuse.\n- Elles se donnent sur l'échelle française traditionnellement utilisée, qui va de 2 à 9b."
+                "rating": "R1",
+                "description": "Pentes faibles et balisage serré\nExigences : Aucune, convient pour les raquettes non-techniques."
+            },
+            {
+                "rating": "R2",
+                "description": "Pentes faibles et pas de balisage\nItinéraire sur pentes faibles (maximum vers 20°) ne nécessitant pas de progresser en lacets ni de faire de traversée sur flancs raides.\nExigences : avoir le pied assez sûr. Convient pour les raquettes non-techniques. Bonnes capacités d'orientation."
+            },
+            {
+                "rating": "R3 & 4",
+                "description": "Pentes modérées à fortes\nItinéraire sur pentes exigeantes nécessitant de progresser en lacets ou de traverser des flancs raides. Certains passages peuvent nécessiter de déchausser ou d'utiliser des couteaux en neige dure.\nExigences : avoir le pied sûr. Raquettes techniques nécessaires. Bonnes capacités d'orientation. Bonne expérience de la montagne."
             }
         ]
     }
