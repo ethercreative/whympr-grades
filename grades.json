@@ -789,6 +789,52 @@
             }
         ]
     },
+    "toponeige_exposition": {
+        "en": [
+            {
+                "rating": "Description",
+                "description": "The exposure grade does not take into account objective hazards (stone fall, seracs…) but only the consequences of a the skier falling."
+            },
+            {
+                "rating": "E1",
+                "description": "Exposure is limited to that of the slope itself. Getting hurt is still likely if the slope is steep and/or the snow is hard."
+            },
+            {
+                "rating": "E2",
+                "description": "As well as the slope itself, there are some obstacles (such as rock outcrops) which could aggravate injury."
+            },
+            {
+                "rating": "E3",
+                "description": "In case of a fall, death is highly likely."
+            },
+            {
+                "rating": "E4",
+                "description": "In case of a fall, the skier faces certain death."
+            }
+        ],
+        "fr": [
+            {
+                "rating": "Description",
+                "description": "L'exposition décrit le risque de blessure en cas de chute, autre que la pente elle même : une faible exposition mais une forte pente ne garantit pas une chute sans conséquence."
+            },
+            {
+                "rating": "E1",
+                "description": "L’exposition est celle de la pente elle-même. Le risque de blessure est cependant important sur neige dure et/ou pente forte."
+            },
+            {
+                "rating": "E2",
+                "description": "A l'exposition de la pente s'ajoute des obstacles aggravant les blessures."
+            },
+            {
+                "rating": "E3",
+                "description": "En cas de chute, la mort est probable."
+            },
+            {
+                "rating": "E4",
+                "description": "En cas de chute, la mort est certaine."
+            }
+        ]
+    },
     "hiking": {
         "en": [
             {
@@ -881,5 +927,4 @@
             }
         ]
     }
-
 }
