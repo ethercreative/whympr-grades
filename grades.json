@@ -437,23 +437,15 @@
         "en": [
             {
                 "rating": "Description",
-                "description": "This fields details the presence and quality of fixed anchors (bolts, pitons, spits) as protection points for rock or ice climbing."
+                "description": "In place protection details the presence and quality of fixed anchors (bolts, pitons, spits) as protection points for rock or ice climbing."
             },
             {
                 "rating": "P1",
                 "description": "well bolted\n- Sport climbing bolted with 10 or 12mm expansion bolts, chemical bolts, etc. The route may not be quiped for abseil.\n- Required gear: 12 to 14 clippers, some of them lengthy, 1 to 2 slings to complete equipment in grade II pitches."
             },
             {
-                "rating": "P1+",
-                "description": "Description"
-            },
-            {
                 "rating": "P2",
                 "description": "partially bolted\n- Classic route with abundant equipment of good quality, essentially pegs and a few expansion bolts. Nevertheless, it may be necessary to complete or strengthen the equipment in place.\n- Classic or modern bolted route with expansion bolts or pegs only in the difficult unprotectable sections and at belays.\n- Sport route on 8mm expansion bolts or other aging equipment.\n- Required gear: It depends on the route. For a grade D or higher route, at least 8 nuts, 5 cams, 4 slings, long draws."
-            },
-            {
-                "rating": "P2+",
-                "description": "Description"
             },
             {
                 "rating": "P3/+",
@@ -471,19 +463,11 @@
             },
             {
                 "rating": "P1",
-                "description": "Bien équipé\n- Prendre uniquement des dégaines et une sangle, + éventuellement des sangles pour passer en A0+.\n- Tous les relais et tous les points des longueurs sont en place, et sont soit de bonne qualité (goujons 10mm, scellement), soit impossibles à renforcer (la différence avec un P1 béton se fait alors par la cotation exposition).\n- Aucun point ne peut être ajouté (même si l'exposition est E4), ou c'est inutile (l'exposition est déjà E2 ou E1)."
-            },
-            {
-                "rating": "P1+",
-                "description": "- Prendre de quoi protéger un pas ou une courte section dans une ou quelques longueurs, si on souhaite limiter l'exposition.\n- Quelques pas ou sections courtes de la voie sont mal protégées (équipement en place éloigné ou de mauvaise qualité) et il est possible de compléter l'équipement pour réduire l'exposition à E2 autant que possible."
+                "description": "Bien équipé\n- Prendre uniquement des dégaines et une sangle, + éventuellement des sangles pour passer en A0+.\n- Tous les relais et tous les points des longueurs sont en place, et sont soit de bonne qualité (goujons > 10mm, scellement), soit impossibles à renforcer (la différence avec un P1 béton se fait alors par la cotation exposition).\n- Aucun point ne peut être ajouté (même si l'exposition est E4), ou c'est inutile (l'exposition est déjà E2 ou E1)."
             },
             {
                 "rating": "P2",
                 "description": "Partiellement équipé\n- Prendre de quoi compléter l'équipement dans les longueurs et renforcer certains relais.\n- Presque tous les relais sont équipés, et sont de bonne qualité. Ou tout ou partie des relais sont à construire, mais ils sont évidents (béquets ou arbres solides).\n- Des points sont en place dans les longueurs, dont certains de bonne qualité, et les crux de la plupart des longueurs sont équipés.\n- L'équipement est à compléter à plusieurs reprises pour réduire l'exposition à E2 autant que possible."
-            },
-            {
-                "rating": "P2+",
-                "description": "- Prendre de quoi protéger certaines longueurs en totalité ou presque, et de quoi construire quelques relais.\n- Peu de points (de bonne ou mauvaise qualité) sont en place dans les longueurs, et les crux des longueurs ne sont pas forcément équipés."
             },
             {
                 "rating": "P3/+",
